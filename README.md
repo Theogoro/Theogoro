@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋!
+Js developer 👨‍💻 
+Frontend lover 💙🖥
+Rock lover 🎸
+I'm studying at [@platzi](https://github.com/platzi) 
+Cordóba, 🇦🇷
+
+
 
 <!--
 **Theogoro/Theogoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
