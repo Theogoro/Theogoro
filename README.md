@@ -1,5 +1,5 @@
 ### Hi there 👋!
-Js developer 👨‍💻 
+Junior developer 👨‍💻 
 Frontend lover 💙🖥
 Rock lover 🎸
 I'm studying at [@platzi](https://github.com/platzi) 
