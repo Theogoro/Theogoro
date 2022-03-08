@@ -1,10 +1,9 @@
-### Hi there 👋!
-Junior developer 👨‍💻 
-Frontend lover 💙🖥
-Rock lover 🎸
-Student 
-Cordóba, 🇦🇷
-
+## Hi there 👋! Wellcome to my profile!
+⚙️ I´m working as technical consultant at Witbor 🛡️
+📖 Graduated in Programming Technology at ITLF. Currently a systems engineering student at UTN
+🥼 Experiences with fullstack JS (react and express), Ruby on Rails and web development
+🔭 Interested on specialize Python, Goland and this dark side called backend 
+🇦🇷
 
 
 <!--
