@@ -4,7 +4,7 @@ Hi 👋 My name is Theo Berta
 Fullstack Dev & Coffee Fan
 -------------------------
 
-I am graduated in Programming Technology at ITLF. Currently a systems engineering student at UTN and working at Witbor as Fullstack Dev (React & Ruby on Rails & MySQL)
+I am graduated in Programming Technology at ITLF. Currently, I am a systems engineering student at UTN and working at Witbor as a Fullstack Developer (React & Ruby on Rails & MySQL).
 
 * 🌍  I'm based in Córdoba, Argentina
 * ✉️  You can contact me at [theoberta@gmail.com](mailto:theoberta@gmail.com)
