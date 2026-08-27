@@ -4,7 +4,7 @@ Hi 👋 My name is Theo Berta
 Software Engineer
 -------------------------
 
-I am graduated in Programming Technology at ITLF. Currently, I am a systems engineering student at UTN and working at Witbor as a Fullstack Developer (React, NodeJs, Ruby on Rails & MySQL).
+I am graduated in Programming Technology at ITLF. Currently, I am a systems engineering student at UTN and working as Software Engineer at Mercado Libre(React, NodeJs, Ruby on Rails & MySQL).
 
 * 🌍  I'm based in Córdoba, Argentina
 * ✉️  You can contact me at [theoberta@gmail.com](mailto:theoberta@gmail.com)
